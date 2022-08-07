@@ -1,5 +1,6 @@
 # YouTube-Downloader .mp3
 Just some s**t code for my friend :D
+This program allow you to download mp3 file from the YouTube video just by copying url address
 
 # How to use it
 1. open .exe app
@@ -9,3 +10,6 @@ Just some s**t code for my friend :D
 # Requirements
 * python3 & pip
 * FFmpeg (https://ffmpeg.org/)
+
+# Warning
+Before closing program make sure that program is not downloading anything.
