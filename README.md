@@ -1,6 +1,6 @@
-# YouTube-Downloader .mp3
+# Music-Downloader .mp3
 Just some s**t code for my friend :D
-This program allow you to download mp3 file from the YouTube video just by copying url address
+This program allow you to download mp3 file from the YouTube video or SoundCloud song just by copying url address
 
 # How to use it
 1. open .exe app
